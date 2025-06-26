@@ -8,5 +8,5 @@ A mini CI/CD project that automatically deploys a static site to GitHub Pages us
 - (Optional) Docker and security scan extensions
 
 ## 📍 Live Site
-[Click here to view](https://your-username.github.io/static-site-cicd/)
+[Click here to view](https://Adiorahonu1.github.io/static-site-cicd/)
 

@@ -5,7 +5,7 @@ A mini CI/CD project that automatically deploys a static site to GitHub Pages us
 ## 💡 Features
 - Auto deployment on push to `main`
 - GitHub Pages hosting
-- (Optional) Docker and security scan extensions
+- Docker and security scan extensions
 
 ## 📍 Live Site
 [Click here to view](https://adiorahonu1.github.io/static-site-cicd/)
